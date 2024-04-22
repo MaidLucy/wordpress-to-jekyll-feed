@@ -1,0 +1,6 @@
+greenlet==3.0.3
+mariadb==1.1.10
+packaging==24.0
+PyMySQL==1.1.0
+SQLAlchemy==2.0.29
+typing_extensions==4.11.0
